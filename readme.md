@@ -1,0 +1,2 @@
+### Red Wine Quality Prediction
+This project is a multiclass classification problem which involves predicting the quality of red variants of the Portuguese "Vinho Verde" wine using the following features: `fixed acidity`, `volatile acidity`, `citric acid`, `residual sugar`, `chlorides`, `free sulfur dioxide`, `total sulfur dioxide`, `density`, `pH`, `sulphates`. The dataset used for this project was uploaded on [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) by UCI Machine Learning. The Random Forest model was used for this project.
